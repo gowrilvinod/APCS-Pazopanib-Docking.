@@ -1,6 +1,5 @@
 # APCS-Pazopanib-Docking.
 
-# APCS-Pazopanib Docking Study
 
 This repository contains the molecular docking study of **Pazopanib** with a target protein structure, along with structural interaction analysis.
 
